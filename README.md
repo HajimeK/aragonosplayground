@@ -12,3 +12,9 @@ Template to help you build your first Aragon application following the [tutorial
 ![](folders.png)
 
 ![](aragonosportal.png)
+
+![](IncreamentWorks.png)
+
+![](IncreamentWorksConfirm.png)
+
+![](IncrementWorksGood.png)
